@@ -1,4 +1,4 @@
-# UF# Module 11 Challenge - UFOs
+# Module 11 Challenge - UFOs
 Create an HTML for UFOs Sightings using JavaScript 
 
 ## Overview of the analysis: Explain the purpose of this analysis.
